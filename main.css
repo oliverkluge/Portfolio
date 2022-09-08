@@ -1,0 +1,40 @@
+* {
+    background-color: blue;
+}
+.section {
+    justify-content: center;
+    align-items: baseline;
+    flex-direction: row;
+}
+.mig {
+    border: 1px dotted ;
+    width: 200px;
+}
+.mig li {
+    color: black;
+    padding: 8px;
+}
+.uddannelser {
+    border: 1px dotted ;
+    width: 200px;
+}
+.uddannelser li {
+    color: black;
+    padding: 8px;
+}
+.jobs {
+    border: 1px dotted ;
+    width: 200px;
+}
+.jobs li {
+    color: black;
+    padding: 8px;
+}
+.fritid {
+    border: 1px dotted ;
+    width: 200px;
+}
+.fritid li {
+    color: black;
+    padding: 8px;
+}
